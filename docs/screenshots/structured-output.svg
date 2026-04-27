@@ -1,0 +1,28 @@
+<svg width="1600" height="960" viewBox="0 0 1600 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="960" rx="36" fill="#071224"/>
+  <rect x="54" y="54" width="1492" height="852" rx="30" fill="#0A1730" stroke="#183D60"/>
+  <text x="110" y="140" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Structured Output and Export</text>
+  <rect x="110" y="214" width="606" height="614" rx="28" fill="#102346"/>
+  <text x="146" y="266" fill="#8CD3FF" font-family="Arial, sans-serif" font-size="22" font-weight="700">Tabular Output</text>
+  <rect x="146" y="302" width="534" height="64" rx="16" fill="#0C1B37" stroke="#1D345B"/>
+  <text x="174" y="343" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="20">address | price | beds | baths | sqft | status | source_url</text>
+  <rect x="146" y="388" width="534" height="64" rx="16" fill="#0C1B37" stroke="#1D345B"/>
+  <text x="174" y="429" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="20">123 Main St | 785000 | 3 | 2 | 1840 | sold | ...</text>
+  <rect x="146" y="474" width="534" height="64" rx="16" fill="#0C1B37" stroke="#1D345B"/>
+  <text x="174" y="515" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="20">456 Oak Ave | 620000 | 2 | 2 | 1320 | pending | ...</text>
+  <rect x="146" y="560" width="534" height="64" rx="16" fill="#0C1B37" stroke="#1D345B"/>
+  <text x="174" y="601" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="20">789 Pine Rd | 910000 | 4 | 3 | 2440 | for_sale | ...</text>
+  <rect x="772" y="214" width="664" height="614" rx="28" fill="#102346"/>
+  <text x="808" y="266" fill="#8CD3FF" font-family="Arial, sans-serif" font-size="22" font-weight="700">Export Targets</text>
+  <rect x="808" y="314" width="270" height="72" rx="18" fill="#1EE7D4" fill-opacity="0.18"/>
+  <text x="894" y="360" fill="#9FFFF2" font-family="Arial, sans-serif" font-size="24" font-weight="700">CSV</text>
+  <rect x="1118" y="314" width="270" height="72" rx="18" fill="#153252"/>
+  <text x="1196" y="360" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Excel</text>
+  <rect x="808" y="418" width="270" height="72" rx="18" fill="#153252"/>
+  <text x="867" y="464" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Pandas</text>
+  <rect x="1118" y="418" width="270" height="72" rx="18" fill="#153252"/>
+  <text x="1174" y="464" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Pydantic</text>
+  <rect x="808" y="552" width="580" height="198" rx="22" fill="#0C1B37" stroke="#1D345B"/>
+  <text x="842" y="606" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Best For</text>
+  <text x="842" y="656" fill="#D8E5F2" font-family="Arial, sans-serif" font-size="22">Investor screening, market scans, dashboards, CRM routing, acquisition research, and reporting workflows.</text>
+</svg>
