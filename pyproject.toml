@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "homeharvest"
 version = "0.8.18"
-description = "Real estate scraping library"
+description = "Python library for collecting and structuring real-estate listing data"
 authors = ["Zachary Hampton <zachary@bunsly.com>", "Cullen Watson <cullen@bunsly.com>"]
-homepage = "https://github.com/ZacharyHampton/HomeHarvest"
+homepage = "https://github.com/abubakarshahid16/HomeHarvest"
+repository = "https://github.com/abubakarshahid16/HomeHarvest"
 readme = "README.md"
 
 [tool.poetry.dependencies]
